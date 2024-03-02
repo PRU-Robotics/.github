@@ -1,12 +1,12 @@
-<h3 align="center">
+<h2 align="center">
     Welcome to PRU Robotics profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <div align="center">
 
-<img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="28">
-<img src="/images/github-axiolite.png" alt="Axiolite Logo" width="28">
+<img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="200" height="auto">
+<img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
 
 </div>
 
