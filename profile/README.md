@@ -5,8 +5,8 @@
 
 <div align="center">
 
-![PRU Robotics Logo](/images/github-axiolite.png)
-![Axiolite Logo](/images/github-robotics.png)
+<img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="28">
+<img src="/images/github-axiolite.png" alt="Axiolite Logo" width="28">
 
 </div>
 
