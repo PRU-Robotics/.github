@@ -5,8 +5,8 @@
 
 <div align="center">
 
-![PRU Robotics Logo](/image/sample.webp)
-![Axiolite Logo](/image/sample.webp)
+![PRU Robotics Logo](/images/github-axiolite.png)
+![Axiolite Logo](/images/github-robotics.png)
 
 </div>
 
