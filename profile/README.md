@@ -1,12 +1,17 @@
-## Hi there, PRU Robotics is here! 👋
+<h3 align="center">
+    Welcome to PRU Robotics profile! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+![PRU Robotics Logo](/image/sample.webp)
+![Axiolite Logo](/image/sample.webp)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+<p align="center">
+    <a href="https://github.com/PRU-Robotic">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Piri+Reis+University+Robot+Club;Software+Side+of+our+Projects;">
+    </a>
+</p>
