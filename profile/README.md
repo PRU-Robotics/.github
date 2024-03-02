@@ -4,10 +4,8 @@
 </h2>
 
 <div align="center">
-
-<img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="200" height="auto">
-<img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
-
+    <img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="200" height="auto">
+    <img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
 </div>
 
 <p align="center">
