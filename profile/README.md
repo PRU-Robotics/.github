@@ -6,9 +6,12 @@
 <div align="center">
 
 <img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="200" height="auto">
+<br><br>
 <img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
 
 </div>
+
+<br>
 
 <p align="center">
     <a href="https://github.com/PRU-Robotic">
