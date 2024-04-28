@@ -32,29 +32,28 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-<h4 align="center">OUR PROJECTS & COMPETITIONS</h4>
+<h4 align="">OUR PROJECTS & COMPETITIONS:</h4>
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <details>
-            <summary>Current Projects:</summary>
-            <p>
-                - Unmanned Underwater Vehicle (AUV)<br>
-                - Unmanned Surface Vehicle (USV)<br>
-                - Unmanned Aerial Vehicle (UAV)<br>
-                - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
-                Within the scope of both TEKNOFEST and TÜBİTAK BAP (Scientific Research Project) Projects.
-            </p>
-        </details>
-    </div>
-    <div>
-        <details>
-            <summary>Past Projects & Competitions:</summary>
-            <p>
-                - Unmanned Aerial Vehicle (UAV)<br>
-                - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
-                Finalist teams in particularly TÜBİTAK and TEKNOFEST.
-            </p>
-        </details>
-    </div>
-</div>
+---
+
+<details>
+    <summary>Current Projects;</summary>
+    <p>
+        - Unmanned Underwater Vehicle (AUV)<br>
+        - Unmanned Surface Vehicle (USV)<br>
+        - Unmanned Aerial Vehicle (UAV)<br>
+        - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
+        Within the scope of both TEKNOFEST and TÜBİTAK BAP (Scientific Research Project) Projects.
+    </p>
+</details>
+
+---
+
+<details>
+    <summary>Past Projects & Competitions;</summary>
+    <p>
+        - Unmanned Aerial Vehicle (UAV)<br>
+        - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
+        Finalist teams in particularly TÜBİTAK and TEKNOFEST.
+    </p>
+</details>
