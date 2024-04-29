@@ -39,9 +39,9 @@
 <details>
     <summary>Current Projects;</summary>
     <p>
-        - Unmanned Underwater Vehicle (AUV)<br>
-        - Unmanned Surface Vehicle (USV)<br>
         - Unmanned Aerial Vehicle (UAV)<br>
+        - Unmanned Surface Vehicle (USV)<br>
+        - Unmanned Underwater Vehicle (AUV)<br>
         - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
         Within the scope of both TEKNOFEST and TÜBİTAK BAP (Scientific Research Project) Projects.
     </p>
