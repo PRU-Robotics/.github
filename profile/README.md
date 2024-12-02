@@ -32,28 +32,29 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-<h4 align="">OUR PROJECTS & COMPETITIONS:</h4>
+<h4 align="">OUR TEAMS, PROJECTS & COMPETITIONS:</h4>
 
 ---
 
 <details>
-    <summary>Current Projects;</summary>
-    <p>
-        - Unmanned Aerial Vehicle (UAV)<br>
-        - Unmanned Surface Vehicle (USV)<br>
-        - Unmanned Underwater Vehicle (AUV)<br>
-        - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
-        Within the scope of both TEKNOFEST and TÜBİTAK BAP (Scientific Research Project) Projects.
-    </p>
+    <summary>Current TEAMS;</summary>
+    <ul>
+        <li>Unmanned Surface Vehicle (USV)</li>
+        <li>Rotary Wing Unmanned Aerial Vehicle (Drone)</li>
+        <li>Autonomous (Unmanned) Underwater Vehicle (AUV)</li>
+    </ul>
+    <p>Within the scope of both TEKNOFEST and TÜBİTAK BAP (Scientific Research Project) Projects.</p>
 </details>
 
 ---
 
 <details>
     <summary>Past Projects & Competitions;</summary>
-    <p>
-        - Unmanned Aerial Vehicle (UAV)<br>
-        - Agricultural Unmanned Ground Vehicle (A-UGV)<br>
-        Finalist teams in particularly TÜBİTAK and TEKNOFEST.
-    </p>
+    <ul>
+        <li>Unmanned Aerial Vehicle (UAV)</li>
+        <li>Unmanned Surface Vehicle (USV)</li>
+        <li>Agricultural Unmanned Ground Vehicle (A-UGV)</li>
+        <li>Autonomous (Unmanned) Underwater Vehicle (AUV)</li>
+    </ul>
+    <p>Finalist teams in particularly TÜBİTAK and TEKNOFEST.</p>
 </details>
