@@ -24,7 +24,7 @@
 
 <div align="justify">
     <p align="center">
-        We are one of the oldest clubs at our college. Our goal is to keep alive the competition and Ar-Ge (Research and Development) culture in our school. <br><br> Here at PRU Robotics GitHub Organization, we are collecting our works to represent and collaborate with teams in the background. We are also passionate about representing our works as Open Source! So, Stay Tuned! <br><br> Feel free to let us know if you have any ideas to contribute or another challenge you'd like to try!
+        We are one of the oldest clubs at our college. Our goal is to keep alive the competition and R&D (Research and Development) culture in our school. <br><br> Here at PRU Robotics GitHub Organization, we are collecting our works to represent and collaborate with teams in the background. We are also passionate about representing our works as Open Source! So, Stay Tuned! <br><br> Feel free to let us know if you have any ideas to contribute or another challenge you'd like to try!
     </p>
 </div>
 
