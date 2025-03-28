@@ -13,7 +13,7 @@
 <br><br>
 
 <p align="center">
-    <a href="https://github.com/PRU-Robotic">
+    <a href="https://github.com/PRU-Robotics">
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Piri+Reis+University+Robot+Club;Software+Side+of+our+Projects;">
     </a>
 </p>
