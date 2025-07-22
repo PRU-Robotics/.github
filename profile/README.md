@@ -8,6 +8,7 @@
     <img src="/images/github-pru.png" alt="PRU Logo" width="110" height="110">
     <img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="200" height="auto">
     <img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
+    <img src="/images/pru-ida.png" alt="PRU-İDA Logo" width="110" height="110">
 </div>
 
 <br><br>
